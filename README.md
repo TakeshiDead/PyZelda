@@ -3,7 +3,7 @@
 
 ## Timestamps:
 
-##Alan
+## Alan
 
 * 0:02:30 – Project setup
 * 0:06:52 – Level setup
@@ -19,7 +19,7 @@
 * 3:44:03 – Magic setup
 * 5:32:50 – Particles
 
-##Onil
+## Onil
 
 * 2:30:26 – Weapons
 * 4:00:19 – Enemy creation
@@ -27,7 +27,7 @@
 * 5:56:25 – Spells
 * 6:26:35 – Upgrade system and menu
 
-#Youtube video to references Creating a Zelda style game in Python [with some Dark Souls elements]:
+# Youtube video to references Creating a Zelda style game in Python [with some Dark Souls elements]:
 
 https://www.youtube.com/watch?v=QU1pPzEGrqw&t=58s
 
