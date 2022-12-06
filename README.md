@@ -1,9 +1,9 @@
 
 # Juego de Zelda en Python 4fun (pyZelda). 
 
-## Timestamps::
+## Timestamps:
 
-#Alan
+##Alan
 
 * 0:02:30 – Project setup
 * 0:06:52 – Level setup
@@ -19,7 +19,7 @@
 * 3:44:03 – Magic setup
 * 5:32:50 – Particles
 
-#Onil
+##Onil
 
 * 2:30:26 – Weapons
 * 4:00:19 – Enemy creation
