@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/jatnabatista/dbe14f12-5201-48d1-b014-526bca9d41b8/22c1f9c2-d9b6-471b-914f-34496069ca23/_apis/work/boardbadge/bcc76b2d-7002-4aa4-8d65-c71d053edddf)](https://dev.azure.com/jatnabatista/dbe14f12-5201-48d1-b014-526bca9d41b8/_boards/board/t/22c1f9c2-d9b6-471b-914f-34496069ca23/Microsoft.RequirementCategory)
 
 # Juego de Zelda en Python 4fun (pyZelda). 
 
