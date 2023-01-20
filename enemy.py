@@ -1,6 +1,7 @@
 import pygame
 from Settings import *
-from Entity import Entity
+from entity import Entity
+from support import *
 
 class Enemy(Entity):
     def __init__(self,monster_name,pos,groups,obstacle_sprites):
@@ -55,7 +56,6 @@ class Enemy(Entity):
         
         return (distance,direction)
 
-
     def get_status(self,player):
         distance = self.get_player_distance_direction(player)[0]
 
@@ -77,7 +77,6 @@ class Enemy(Entity):
         else:
             self.direction = pygame.math.Vector2()
 
-
     def animate(self):
         animation = self.animations[self.status]
 
@@ -95,14 +94,11 @@ class Enemy(Entity):
             current_time = pyugame.tome.get_ticks()
         if current_time - self.attack_time >= self.attack_cooldown:
             self.can_attack = True
-  
-
+     
     def update(self):
         self.move(self.speed)
         self.animate()
         self.cooldown()
-
-
 
     def enemy_update(self,player):
         self.get_status(player)
